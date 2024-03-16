@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+}
+.bold-text {
+  font-weight: bolder;
+  color: white;
+  font-size: 50px;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.text {
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.bolder-text {
+  font-weight: bolder;
+  color: white;
+  font-size: 50px;
+}
+
+.link {
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
